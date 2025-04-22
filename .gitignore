@@ -1,0 +1,43 @@
+# ---- OS SYSTEM FILES ----
+.DS_Store
+Thumbs.db
+
+# ---- PYTHON FILES ----
+*.pyc
+*.pyo
+__pycache__/
+.env
+venv/
+*.egg-info/
+
+# ---- JUPYTER NOTEBOOKS ----
+.ipynb_checkpoints/
+
+# ---- SQL / DATABASE FILES ----
+*.sqlite
+*.db
+
+# ---- DATA FILES ----
+data/*.csv
+data/*.tsv
+data/*.json
+*.zip
+
+# ---- LOGS ----
+*.log
+
+# ---- IDEs and EDITORS ----
+.vscode/
+.idea/
+
+# ---- GIT ----
+*.orig
+# OS and editor clutter
+.DS_Store
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python environme

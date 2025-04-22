@@ -1,0 +1,48 @@
+Last login: Mon Apr 21 21:55:49 on ttys001
+smarr@MacBook-Air-188 ~ % cd ~/Documents/Data\ Sets/AirBNBAnalysis
+
+smarr@MacBook-Air-188 AirBNBAnalysis % touch .gitignore
+
+smarr@MacBook-Air-188 AirBNBAnalysis % code .gitignore
+
+zsh: command not found: code
+smarr@MacBook-Air-188 AirBNBAnalysis % nano .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                    File: .gitignore                    Modified  
+
+data/*.csv 
+data/*.tsv
+data/*.json
+*.zip
+
+# ---- LOGS ----
+*.log   
+
+# ---- IDEs and EDITORS ----
+.vscode/
+.idea/
+
+# ---- GIT ----
+*.orig
+# OS and editor clutter
+.DS_Store   
+__pycache__/
+*.pyc
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
