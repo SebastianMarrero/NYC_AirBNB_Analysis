@@ -1,0 +1,1 @@
+SELECT * FROM reviews WHERE LOWER(comments) LIKE '%dirty%';
