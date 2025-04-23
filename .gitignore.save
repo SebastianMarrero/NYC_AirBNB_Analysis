@@ -1,9 +1,0 @@
-# OS and editor clutter
-.DS_Store
-__pycache__/
-*.pyc
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Python environme
