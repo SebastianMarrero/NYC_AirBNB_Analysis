@@ -46,6 +46,9 @@ This project was built to showcase my ability to:
 - Which keywords frequently appear in flagged reviews?
 ---
 
+
+---
+
 ## Featured Visualizations
 
 ### 1. Average Price by Room Type and Neighbourhood
@@ -53,11 +56,19 @@ This project was built to showcase my ability to:
 [Interactive Tableau Link](https://public.tableau.com/app/profile/sebastian.marrero/viz/AveragePricebyRoomTypeandNeighbourhood/Sheet1)  
 *Note: The unusually high average prices in some neighborhoods are due to extreme outliers. These have not been excluded from the current visualization but are noted for context.*
 
+**Associated Insight:**
+- Entire home/apartment listings dominate the market and carry the highest average nightly price. Shared rooms are rare and priced significantly lower.
+- Some neighborhoods, like SoHo and Williamsburg, offer a strong balance of high availability, guest satisfaction, and pricing power — indicating strong market positioning.
+
 ---
 
 ### 2. Market Activity Projection (into 2026)
 ![Market Activity](assets/images/MarketActivityByDate.png)  
 [Interactive Tableau Link](https://public.tableau.com/app/profile/sebastian.marrero/viz/AirBNBMarketActivityProjectioninto2026/Sheet1)
+
+**Associated Insight:**
+- Listing activity has remained strong throughout the year, with noticeable dips around winter months.
+- Midtown Manhattan, despite high prices, remains consistently booked, underscoring its popularity for tourists and business travelers alike.
 
 ---
 
@@ -65,8 +76,10 @@ This project was built to showcase my ability to:
 ![Avg Price by Neighborhood](assets/images/Price_GroupedbyNeighbourhood.png)  
 [Interactive Tableau Link](https://public.tableau.com/app/profile/sebastian.marrero/viz/AverageAirBNBListingPricebyNeighbourhood/Sheet1)
 
+**Associated Insight:**
+- Brooklyn and Manhattan consistently lead in listing volume, with Brooklyn offering more affordability and Manhattan commanding higher prices.
+- Revenue is highly concentrated among a small number of hosts — a few with multiple high-performing listings account for disproportionate earnings.
 
----
 
 ## Insights
 
