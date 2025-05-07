@@ -107,6 +107,8 @@ Booking Behavior and activity
 - Listings with more reviews per month are strong proxies for consistently booked listings and often align with higher revenue earners.
 
 - Guest Sentiment Analysis
+[Explore Full Sentiment Analysis Report (HTML)](assets/html/AirBNBAnalysis_SentimentAnalysis.html)
+
 The average sentiment across all reviews was highly positive (~0.75 on a scale from -1 to 1), reinforcing the strength of the NYC Airbnb experience.
 
 - SoHo, Park Slope, and Greenpoint had the most positively reviewed listings, while areas like JFK-adjacent neighborhoods and Harlem had more negative feedback related to noise, cleanliness, or host communication.
