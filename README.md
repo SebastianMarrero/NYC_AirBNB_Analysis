@@ -106,9 +106,7 @@ Booking Behavior and activity
 
 - Listings with more reviews per month are strong proxies for consistently booked listings and often align with higher revenue earners.
 
-- Guest Sentiment Analysis
-
-[Explore Full Sentiment Analysis Report (HTML)](AirBNBAnalysis_SentimentAnalysis.html)
+- Guest Sentiment Analysis (For more information, visit my website)
 
 The average sentiment across all reviews was highly positive (~0.75 on a scale from -1 to 1), reinforcing the strength of the NYC Airbnb experience.
 
