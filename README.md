@@ -44,6 +44,27 @@ This project was built to showcase my ability to:
 - What do guests say most in reviews?
 - Which neighborhoods have the most positive (or negative) sentiment?
 - Which keywords frequently appear in flagged reviews?
+---
+
+## Featured Visualizations
+
+### 1. Average Price by Room Type and Neighbourhood
+![Average Price](assets/images/AveragePriceGroupedByNeighbourhood_RoomType.png)  
+[Interactive Tableau Link](https://public.tableau.com/app/profile/sebastian.marrero/viz/AveragePricebyRoomTypeandNeighbourhood/Sheet1)  
+*Note: The unusually high average prices in some neighborhoods are due to extreme outliers. These have not been excluded from the current visualization but are noted for context.*
+
+---
+
+### 2. Market Activity Projection (into 2026)
+![Market Activity](assets/images/MarketActivityByDate.png)  
+[Interactive Tableau Link](https://public.tableau.com/app/profile/sebastian.marrero/viz/AirBNBMarketActivityProjectioninto2026/Sheet1)
+
+---
+
+### 3. Average Airbnb Listing Price by Neighbourhood
+![Avg Price by Neighborhood](assets/images/Price_GroupedbyNeighbourhood.png)  
+[Interactive Tableau Link](https://public.tableau.com/app/profile/sebastian.marrero/viz/AverageAirBNBListingPricebyNeighbourhood/Sheet1)
+
 
 ---
 
